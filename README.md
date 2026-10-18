@@ -14,7 +14,7 @@ Riyadh, Saudi Arabia
 
 ---
 
-I help organizations adopt the cloud with confidence — sovereign cloud governance, regulatory compliance (CST, NCA ECC, NDMO data residency), FinOps cost transparency, network reliability, and infrastructure tooling, with a focus on the Saudi market.
+I help organizations adopt the cloud with confidence sovereign cloud governance, regulatory compliance (CST, NCA ECC, data residency), FinOps cost transparency, network reliability, and infrastructure tooling, with a focus on the Saudi market.
 
 ### Tech Stack
 
