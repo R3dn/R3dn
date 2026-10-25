@@ -39,52 +39,6 @@ Riyadh, Saudi Arabia 🇸🇦
 
 ---
 
-## 🔥 Featured Projects
-
-### [infra-check](https://github.com/R3dn/infra-check)
-**One command, full infrastructure health: DNS → TCP → TLS → HTTP → certificate → latency → redirect.**
-
-A pip-installable CLI with a clear verdict (`HEALTHY` / `DEGRADED` / `UNHEALTHY`), JSON output, and CI-friendly exit codes that separate "pipeline misconfigured" from "site down." Ships as a reusable GitHub Action; fully unit-tested, runs offline.
-
-```bash
-pip install infra-health-check
-infra-check example.com --json
-```
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyPI](https://img.shields.io/badge/PyPI-infra--health--check-3776AB?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/infra-health-check/)
-[![GitHub Actions](https://img.shields.io/badge/Action-R3dn%2Finfra--check-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/R3dn/infra-check)
-
-### [saudi-cloud-cost-estimator-cli](https://github.com/R3dn/saudi-cloud-cost-estimator-cli)
-**Saudi cloud costs, in SAR with 15% VAT — with price provenance on every line.**
-
-Compares compute, storage, database, Kubernetes, network, and TCO across the clouds you can actually use in or near Saudi Arabia — Oracle (Riyadh/Jeddah), Google (Dammam), AWS (Bahrain), Azure (UAE). Every number is tagged `live`, `fallback`, or `assumption`; the tool never dresses an approximation up as an official price.
-
-```bash
-npm install -g saudi-cloud-cost-estimator-cli
-saudi-cloud-costs compute compare -s medium
-```
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![npm](https://img.shields.io/badge/npm-saudi--cloud--cost--estimator--cli-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/saudi-cloud-cost-estimator-cli)
-[![FinOps](https://img.shields.io/badge/FinOps-cloud--costs-0096FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDE1djJoMTZ2LTJINHptMC0zdjJoMTZ2LTJINHptNC00bDQgNCA0LTRoLTl6Ii8+PC9zdmc+)](https://github.com/R3dn/saudi-cloud-cost-estimator-cli)
-
-### [dockerized-3tier-app](https://github.com/R3dn/dockerized-3tier-app)
-**Sovereign cloud workload governance, running locally.**
-
-A working 3-tier application (React · FastAPI · PostgreSQL behind Nginx) that simulates enterprise workload migration under Saudi regulatory frameworks — NDMO data residency, NCA ECC compliance scoring, and CST cloud classification (Class A/B/C). Bilingual AR/EN interface, container hardening throughout.
-
-```bash
-docker compose up --build -d
-```
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
----
-
 ## 🛠️ Technical Focus
 
 <details>
