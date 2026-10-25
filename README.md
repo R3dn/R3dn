@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C43C&center=true&vCenter=true&random=false&width=650&lines=%E2%98%81%EF%B8%8F+Salam!+I'm+Redn+Alsidrah;Cloud+Adoption+%C2%B7+Architecture+%C2%B7+Engineering+%C2%B7+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C43C&center=true&vCenter=true&random=false&width=650&lines=%E2%98%81%EF%B8%8F+Salam!+I'm+Redn+Alsidrah;Cloud+Adoption+Manager+%C2%B7+Pre--Sales+%C2%B7+AI+Advisor)](https://git.io/typing-svg)
 
 # Redn Alsidrah
 
-### Cloud Adoption · Architecture · Engineering · Applied AI
+### Cloud Adoption Manager · Cloud Consultant · Pre-Sales · Technical & AI Advisor
 
 Riyadh, Saudi Arabia 🇸🇦
 
@@ -20,13 +20,32 @@ Riyadh, Saudi Arabia 🇸🇦
 
 **Name:** Redn Alsidrah
 
-**Role:** I work where cloud architecture meets customer conversations — translating business and regulatory requirements into designs that can actually be built, sized, and operated.
+**Role:** Cloud Adoption Manager at SITE — I help enterprise and government organizations design secure, scalable, and compliant cloud solutions, translating complex requirements into practical architectures, technical proposals, and successful cloud transformations.
 
 **Loves:** ☁️ Sovereign clouds · 🛡️ Saudi compliance frameworks (CST, NCA ECC, NDMO) · 💰 FinOps · 🤖 Applied AI · ⚡ CLI tools that save engineers hours
 
-**Languages:** 🇸🇦 Arabic (native) · 🇺🇸 English
+**Languages:** 🇸🇦 Arabic (native) · 🇺🇸 English (professional working)
 
 **Based in:** Riyadh, Saudi Arabia
+
+---
+
+## 💼 Experience
+
+**Cloud Adoption Manager** · SITE (May 2026 – Present)
+**Cloud Consultant** · SITE (Mar 2025 – May 2026)
+
+> Driving technical pre-sales and cloud engineering engagements across the full cloud adoption lifecycle — onboarding, scoping, technical assessments, solution design, BoQ development, migration planning, and DR readiness.
+
+**Cloud Specialist** · Banque Misr (Sep 2024 – Mar 2025)
+
+> Owned Oracle Cloud Infrastructure services (compute, networking, storage) — performance monitoring, patching, backup & recovery, cost optimization, and operational runbooks.
+
+**Specialist IT Virtualization & Cloud Support** · alrajhi bank (2022 – 2024)
+
+> Managed 11 vCenters, 300+ ESXi hosts, and 4,000+ VMs — VMware Cloud Director multi-tenant provisioning, NSX network virtualization & micro-segmentation, SRM disaster recovery, and workload migration to VMware-based clouds.
+
+**IT Assistant (Internship)** · Aramco (2017)
 
 ---
 
@@ -105,6 +124,27 @@ Riyadh, Saudi Arabia 🇸🇦
 
 ---
 
+## 🎓 Certifications
+
+![VCP-NV 2023](https://img.shields.io/badge/VMware_VCP--NV_Network_Virtualization_2023-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![OCI Foundations](https://img.shields.io/badge/Oracle_OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft AI Agents](https://img.shields.io/badge/Microsoft_Applied_Skills--AI_Agents_in_Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Oracle Agentic AI](https://img.shields.io/badge/Oracle_Agentic_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Agile Fundamentals](https://img.shields.io/badge/Agile_Fundamentals-0096FF?style=for-the-badge&logo=agile&logoColor=white)
+
+## 🏆 Honors & Awards
+
+- 🥇 **Champion of the Week** — Cloud Computing Bootcamp (Saudi Digital Academy)
+- 🎓 Graduated with **First Honor** degree
+
+## 📚 Education
+
+- **B.Sc.** Engineering of Computer Network Systems Support — TVTC (2021)
+- **Cloud Developer using Microsoft Azure** Nanodegree — Udacity (2022)
+- **Cloud Computing Bootcamp (GCP)** — Saudi Digital Academy (2021)
+
+---
+
 <div align="center">
 
 ## 🔗 Find Me
@@ -112,6 +152,8 @@ Riyadh, Saudi Arabia 🇸🇦
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdan-alsadrah/)
 &nbsp;
 [![Website](https://img.shields.io/badge/ralsadrah.xyz-475569?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
+&nbsp;
+[![Email](https://img.shields.io/badge/rednkhalid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rednkhalid@gmail.com)
 
 <em>Open to collaborations on sovereign cloud adoption, FinOps tooling, and AI infrastructure.</em>
 
