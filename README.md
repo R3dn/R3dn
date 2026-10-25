@@ -70,6 +70,17 @@ Riyadh, Saudi Arabia 🇸🇦
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🖥️ VMware & Virtualization
+
+![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![ESXi](https://img.shields.io/badge/ESXi-546E7A?style=for-the-badge)
+![vCenter](https://img.shields.io/badge/vCenter-455A64?style=for-the-badge)
+![VMware Cloud Director](https://img.shields.io/badge/VMware_Cloud_Director-37474F?style=for-the-badge&logo=vmware&logoColor=white)
+![NSX](https://img.shields.io/badge/VMware_NSX-263238?style=for-the-badge)
+![vSAN](https://img.shields.io/badge/vSAN-78909C?style=for-the-badge)
+![SRM](https://img.shields.io/badge/SRM-5D6D7E?style=for-the-badge)
+![DRS & HA](https://img.shields.io/badge/DRS_%26_HA-90A4AE?style=for-the-badge)
+
 ### 🛡️ Sovereign Cloud & Compliance
 
 ![CST Cloud Framework](https://img.shields.io/badge/CST_Cloud_Framework-1B4F72?style=for-the-badge)
@@ -111,6 +122,16 @@ Riyadh, Saudi Arabia 🇸🇦
 ![Budgetary Estimation](https://img.shields.io/badge/Budgetary_Estimation-148F77?style=for-the-badge)
 ![Resource Optimization](https://img.shields.io/badge/Resource_Optimization-1ABC9C?style=for-the-badge)
 ![TCO Comparison](https://img.shields.io/badge/TCO_Comparison-117864?style=for-the-badge)
+
+### 🤝 Pre-Sales & Solution Architecture
+
+![Technical Pre-Sales](https://img.shields.io/badge/Technical_Pre--Sales-1F618D?style=for-the-badge)
+![Solution Design](https://img.shields.io/badge/Solution_Design-2E86C1?style=for-the-badge)
+![BoQ Development](https://img.shields.io/badge/BoQ_Development-3498DB?style=for-the-badge)
+![Migration Strategy](https://img.shields.io/badge/Migration_Strategy-2874A6?style=for-the-badge)
+![Workload Assessment](https://img.shields.io/badge/Workload_Assessment-21618C?style=for-the-badge)
+![DR Readiness](https://img.shields.io/badge/DR_Readiness-1B4F72?style=for-the-badge)
+![Technical Proposals](https://img.shields.io/badge/Technical_Proposals-154360?style=for-the-badge)
 
 ---
 
