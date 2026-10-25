@@ -41,7 +41,7 @@ Riyadh, Saudi Arabia 🇸🇦
 
 ## 🛠️ Technical Focus
 
-**☁️ Cloud & Infrastructure**
+### ☁️ Cloud & Infrastructure
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -51,47 +51,47 @@ Riyadh, Saudi Arabia 🇸🇦
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**🛡️ Sovereign Cloud & Compliance**
+### 🛡️ Sovereign Cloud & Compliance
 
-![CST Cloud Framework](https://img.shields.io/badge/CST_Cloud_Framework-0F4C81?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTUtMTAtNXoiLz48cGF0aCBkPSJNMiAxMmwxMCA1IDEwLTVNMiAxN2wxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=white)
-![NCA ECC](https://img.shields.io/badge/NCA_ECC-1A5276?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDQgNWwtMiA1IDEyIDQgMi01eiBtMTEgNGwtMTIgNC0yLjUtNy41IDYuNS0yLjV6Ii8+PC9zdmc+)
-![NDMO Data Residency](https://img.shields.io/badge/NDMO_Data_Residency-117864?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDEwaDItdjRIMnYtNGgydi0yaDR2MnpNOCA2aDR2Mkg4eiBtNCAyaDR2MmgtNHoiLz48L3N2Zz4=&logoColor=white)
-![Data Sovereignty](https://img.shields.io/badge/Data_Sovereignty-148F77?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMTloMjB6TTEyIDE5bC0zLTUgMy01IDMgNXoiLz48L3N2Zz4=)
-![DR & Backup Design](https://img.shields.io/badge/DR_%26_Backup_Design-2E4053?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDRoMTJ2Mkg2eiBtLTIgNGgxNnYySDR6bTIgNGgxMnYySDZ6bS0yIDRoMTZ2Mkg0eiIvPjwvc3ZnPg==&logoColor=white)
-![Connectivity & Managed Services](https://img.shields.io/badge/Connectivity_%26_Managed_Services-1F618D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjEyIgxyPSI1IiByPSIyIi8+PHBhdGggZD0iTTIgMTJoMlptMjAgMGgtMm0tOCA4djJtMC0yMHYyIi8+PC9zdmc+)
+![CST Cloud Framework](https://img.shields.io/badge/CST_Cloud_Framework-1B4F72?style=for-the-badge)
+![NCA ECC](https://img.shields.io/badge/NCA_ECC-21618C?style=for-the-badge)
+![NDMO Data Residency](https://img.shields.io/badge/NDMO_Data_Residency-148F77?style=for-the-badge)
+![Data Sovereignty](https://img.shields.io/badge/Data_Sovereignty-0E6655?style=for-the-badge)
+![DR & Backup Design](https://img.shields.io/badge/DR_%26_Backup_Design-1A5276?style=for-the-badge)
+![Connectivity & Managed Services](https://img.shields.io/badge/Connectivity_%26_Managed_Services-2874A6?style=for-the-badge)
 
-**⚡ Automation & Scripting**
+### ⚡ Automation & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerCLI](https://img.shields.io/badge/PowerCLI-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDRoMTZ2MTZINHoiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2C3E50?style=for-the-badge)
 
-**📦 Containers & Platforms**
+### 📦 Containers & Platforms
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-**🤖 AI & LLM Engineering**
+### 🤖 AI & LLM Engineering
 
-![LLM Inference Sizing](https://img.shields.io/badge/LLM_Inference_Sizing-8E44AD?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDRsMSAxIDEtMXpNOSA3bDEgMS0xLTF6bTMgM2wxIDF6bTMgM2wxIDF6Ii8+PC9zdmc+)
+![LLM Inference Sizing](https://img.shields.io/badge/LLM_Inference_Sizing-6C3483?style=for-the-badge)
 ![GPU Capacity Planning](https://img.shields.io/badge/GPU_Capacity_Planning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RAG Fundamentals](https://img.shields.io/badge/RAG_Fundamentals-2C3E50?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDRoMTZ2MTZINHoiLz48L3N2Zz4=)
-![Embeddings & Vector DBs](https://img.shields.io/badge/Embeddings_%26_Vector_Databases-5B2C6F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSIxMiIgcj0iMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNCIgcj0iMiIvPjxjaXJjbGUgY3g9IjIwIiBjeT0iMTIiIHI9IjIiLz48L3N2Zz4=)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-16A085?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzbDUgNS01IDUtNS01eiIvPjwvc3ZnPg==)
-![API Integration](https://img.shields.io/badge/API_Integration-E67E22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDEwaDE2djRINHoiLz48L3N2Zz4=)
+![RAG Fundamentals](https://img.shields.io/badge/RAG_Fundamentals-5B2C6F?style=for-the-badge)
+![Embeddings & Vector DBs](https://img.shields.io/badge/Embeddings_%26_Vector_Databases-7D3C98?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-8E44AD?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-9B59B6?style=for-the-badge)
 
-**💰 Cloud Economics**
+### 💰 Cloud Economics
 
-![Workload Sizing](https://img.shields.io/badge/Workload_Sizing-2980B9?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDEzaDE4djRIM3ptMy00aDEyDJDNCAzYTh6Ii8+PC9zdmc+)
-![FinOps Principles](https://img.shields.io/badge/FinOps_Principles-0096FF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDE1djJoMTZ2LTJINHptMC0zdjJoMTZ2LTJINHptNC00bDQgNCA0LTRoLTl6Ii8+PC9zdmc+)
-![Budgetary Estimation](https://img.shields.io/badge/Budgetary_Estimation-27AE60?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQTEwIDEwIDAgMTAxMiAyYTEwIDEwIDAgMTAxMCAxMHptMTAgNGwtNCA0LTQtNGgtM3YzaDN2N2gtM3YzIiLz48L3N2Zz4=)
-![Resource Optimization](https://img.shields.io/badge/Resource_Optimization-F39C12?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDE3aDE4djJIM3pNNSAzbDIgNiA0LTQgNCA0IDItNkg1eiIvPjwvc3ZnPg==)
-![TCO Comparison](https://img.shields.io/badge/TCO_Comparison-D4AC0D?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDIwaDE2djJINHptMC0zOGgxNnYySDR6Ii8+PC9zdmc+)
+![Workload Sizing](https://img.shields.io/badge/Workload_Sizing-138D75?style=for-the-badge)
+![FinOps Principles](https://img.shields.io/badge/FinOps_Principles-16A085?style=for-the-badge)
+![Budgetary Estimation](https://img.shields.io/badge/Budgetary_Estimation-148F77?style=for-the-badge)
+![Resource Optimization](https://img.shields.io/badge/Resource_Optimization-1ABC9C?style=for-the-badge)
+![TCO Comparison](https://img.shields.io/badge/TCO_Comparison-117864?style=for-the-badge)
 
 ---
 
