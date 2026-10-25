@@ -2,61 +2,89 @@
 
 # Redn Alsidrah
 
-**Cloud & AI Consultant**
+### Cloud Adoption · Architecture · Engineering · Applied AI
 
 Riyadh, Saudi Arabia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdan-alsadrah/)
-[![Website](https://img.shields.io/badge/Website-ralsadrah.xyz-475569?style=flat-square&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
+[![Website](https://img.shields.io/badge/ralsadrah.xyz-475569?style=flat-square&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
 [![GitHub](https://img.shields.io/badge/GitHub-R3dn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/R3dn)
 
 </div>
 
 ---
 
-I help organizations adopt the cloud with confidence sovereign cloud governance, regulatory compliance (CST, NCA ECC, data residency), FinOps cost transparency, network reliability, and infrastructure tooling, with a focus on the Saudi market.
+I work at the intersection of **cloud architecture, engineering, and customer-facing consulting** — translating business and regulatory requirements into designs that can actually be built, sized, and operated.
 
-### Tech Stack
+My focus areas:
 
-**Cloud Platforms**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SITE Cloud](https://img.shields.io/badge/SITE_Cloud-00A651?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDExbDMgM2wzLTMgMyAzIDMtMyAzIDMtMy0zLTMgMy0zLTMgMy0zIDMtMyAzIDMtM3oiLz48L3N2Zz4=&logoColor=white)
-
-**Networking**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-215595?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-475569?style=flat-square)
-![TLS/SSL](https://img.shields.io/badge/TLS%2FSSL-0F172A?style=flat-square)
-
-**Development & Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [**saudi-cloud-cost-estimator-cli**](https://github.com/R3dn/saudi-cloud-cost-estimator-cli) | Compare cloud costs across providers serving Saudi Arabia — in SAR, with 15% Saudi VAT and price provenance on every line. |
-| [**dockerized-3tier-app**](https://github.com/R3dn/dockerized-3tier-app) | Enterprise Dockerized 3-tier web application simulating sovereign cloud workload migration and Saudi regulatory compliance (CST, NCA ECC, NDMO). |
-| [**infra-check**](https://github.com/R3dn/infra-check) | One command, full infrastructure health: DNS, TCP, TLS, HTTP, certificate, latency and redirect checks — with CI-friendly exit codes and JSON output. |
-
-### Get in Touch
-
-- LinkedIn: [linkedin.com/in/rdan-alsadrah](https://www.linkedin.com/in/rdan-alsadrah/)
-- Website: [ralsadrah.xyz](https://ralsadrah.xyz/)
+- **Sovereign cloud adoption (Saudi market)** — architecture and compliance alignment with CST, NCA ECC, and NDMO data residency, plus connectivity, DR, and managed-service design considerations.
+- **Cloud economics** — workload sizing, provider comparison, and budgetary estimation that make technical solutions commercially practical.
+- **Engineering automation** — CLI tools, health checks, and inventory/audit utilities that take repetitive infrastructure work off engineers' hands.
+- **Applied AI infrastructure** — LLM inference sizing, GPU selection, and API integration, grounded in the same cost and capacity discipline.
 
 ---
 
-<div align="center"><em>Open to collaborations on cloud adoption, FinOps, and AI-driven tooling.</em></div>
+### Featured Projects
+
+#### [infra-check](https://github.com/R3dn/infra-check) — one command, full infrastructure health
+
+A pip-installable CLI that verifies the whole chain — DNS → TCP → TLS → HTTP → certificate expiry → latency → https redirect — in one pass, with a clear verdict (`HEALTHY` / `DEGRADED` / `UNHEALTHY`), JSON output, and CI-friendly exit codes that separate "pipeline misconfigured" from "site down." Ships as a reusable GitHub Action; the pure-logic engine is fully unit-tested and the suite runs offline.
+
+```bash
+pip install infra-health-check
+infra-check example.com --json
+```
+
+#### [saudi-cloud-cost-estimator-cli](https://github.com/R3dn/saudi-cloud-cost-estimator-cli) — Saudi cloud costs, with price provenance on every line
+
+Compares compute, storage, database, Kubernetes, network, and full TCO across the clouds you can actually use in or near Saudi Arabia — Oracle (Riyadh/Jeddah), Google (Dammam), AWS (Bahrain), Azure (UAE) — priced in **SAR with 15% VAT**, straight from official pricing APIs. Every number is tagged `live`, `fallback`, or `assumption`; the tool never dresses an approximation up as an official price.
+
+```bash
+npm install -g saudi-cloud-cost-estimator-cli
+saudi-cloud-costs compute compare -s medium
+```
+
+#### [dockerized-3tier-app](https://github.com/R3dn/dockerized-3tier-app) — sovereign cloud workload governance, running locally
+
+A working 3-tier application (React · FastAPI · PostgreSQL behind Nginx) that simulates enterprise workload migration under Saudi regulatory frameworks — NDMO data residency, NCA ECC compliance scoring, and CST cloud classification (Class A/B/C). Bilingual AR/EN interface, container hardening throughout (non-root users, isolated DB tier, security headers at the proxy).
+
+```bash
+docker compose up --build -d
+```
+
+---
+
+### Technical Focus
+
+| Area | Tools & Platforms |
+| --- | --- |
+| Cloud & Infrastructure | Azure · AWS · Google Cloud · Oracle Cloud · SITE Cloud · VMware (vSphere, vCenter, Cloud Director, NSX, vSAN, SRM) |
+| Sovereign Cloud | CST / NCA ECC / NDMO alignment · data residency · DR & backup design · connectivity |
+| Automation & Scripting | Python · PowerShell / PowerCLI · Ansible · Bash · REST APIs |
+| Containers & Platforms | Docker · Kubernetes · OpenShift · Linux · Nginx |
+| AI & LLM Engineering | LLM inference sizing · GPU capacity planning · RAG fundamentals · embeddings & vector databases |
+| Cloud Economics | Workload sizing · FinOps principles · budgetary estimation · resource optimization |
+
+*Cloud platforms and tooling above reflect my professional background; the featured projects carry the repository-level evidence.*
+
+---
+
+### Currently Working On
+
+- Extending [infra-check](https://github.com/R3dn/infra-check) toward security-header and redirect-chain auditing
+- Growing the [cost estimator](https://github.com/R3dn/saudi-cloud-cost-estimator-cli) toward reserved/committed-use pricing comparisons
+- Exploring LLM inference capacity tooling — GPU sizing grounded in real regional catalog data
+
+---
+
+<div align="center">
+
+**Get in touch**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdan-alsadrah/)
+&nbsp; [![Website](https://img.shields.io/badge/ralsadrah.xyz-475569?style=flat-square&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
+
+</div>
+
+<div align="center"><em>Open to collaborations on sovereign cloud adoption, FinOps tooling, and AI infrastructure.</em></div>
