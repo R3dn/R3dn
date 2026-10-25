@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C43C&center=true&vCenter=true&random=false&width=650&lines=%E2%98%81%EF%B8%8F+Salam!+I'm+Redn+Alsidrah;Cloud+Adoption+Manager+%C2%B7+Pre--Sales+%C2%B7+AI+Advisor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C43C&center=true&vCenter=true&random=false&width=650&lines=%E2%98%81%EF%B8%8F+Salam!+I'm+Redn+Alsidrah;I+build+CLIs%2C+containers+%26+sovereign+cloud+tools)](https://git.io/typing-svg)
 
 # Redn Alsidrah
 
-### Cloud Adoption Manager · Cloud Consultant · Pre-Sales · Technical & AI Advisor
+### Cloud Adoption · Architecture · Engineering · Applied AI
 
 Riyadh, Saudi Arabia 🇸🇦
 
@@ -20,41 +20,22 @@ Riyadh, Saudi Arabia 🇸🇦
 
 **Name:** Redn Alsidrah
 
-**Role:** Cloud Adoption Manager at SITE — I help enterprise and government organizations design secure, scalable, and compliant cloud solutions, translating complex requirements into practical architectures, technical proposals, and successful cloud transformations.
+**I do:** Cloud architecture by day, CLI tinkering by night — currently helping workloads find their way into sovereign clouds.
 
-**Loves:** ☁️ Sovereign clouds · 🛡️ Saudi compliance frameworks (CST, NCA ECC, NDMO) · 💰 FinOps · 🤖 Applied AI · ⚡ CLI tools that save engineers hours
+**Loves:** ☁️ Clouds (the computing kind) · 🐧 Linux · ⚡ Automation · 💰 Making cloud bills smaller · 🤖 AI infrastructure
 
-**Languages:** 🇸🇦 Arabic (native) · 🇺🇸 English (professional working)
+**Languages:** 🇸🇦 Arabic (native) · 🇺🇸 English
 
 **Based in:** Riyadh, Saudi Arabia
 
 ---
 
-## 💼 Experience
-
-**Cloud Adoption Manager** · SITE (May 2026 – Present)
-**Cloud Consultant** · SITE (Mar 2025 – May 2026)
-
-> Driving technical pre-sales and cloud engineering engagements across the full cloud adoption lifecycle — onboarding, scoping, technical assessments, solution design, BoQ development, migration planning, and DR readiness.
-
-**Cloud Specialist** · Banque Misr (Sep 2024 – Mar 2025)
-
-> Owned Oracle Cloud Infrastructure services (compute, networking, storage) — performance monitoring, patching, backup & recovery, cost optimization, and operational runbooks.
-
-**Specialist IT Virtualization & Cloud Support** · alrajhi bank (2022 – 2024)
-
-> Managed 11 vCenters, 300+ ESXi hosts, and 4,000+ VMs — VMware Cloud Director multi-tenant provisioning, NSX network virtualization & micro-segmentation, SRM disaster recovery, and workload migration to VMware-based clouds.
-
-**IT Assistant (Internship)** · Aramco (2017)
-
----
-
 ## 🚀 What I Build
 
-- **Sovereign cloud adoption (Saudi market)** — architecture and compliance alignment with CST, NCA ECC, and NDMO data residency, plus connectivity, DR, and managed-service design considerations.
-- **Cloud economics** — workload sizing, provider comparison, and budgetary estimation that make technical solutions commercially practical.
-- **Engineering automation** — CLI tools, health checks, and inventory/audit utilities that take repetitive infrastructure work off engineers' hands.
-- **Applied AI infrastructure** — LLM inference sizing, GPU selection, and API integration, grounded in the same cost and capacity discipline.
+- **Sovereign cloud adoption tooling** — architecture and compliance alignment with CST, NCA ECC, and NDMO data residency.
+- **Cloud economics** — workload sizing and budgetary estimation that make technical solutions commercially practical.
+- **Engineering automation** — CLI tools and health checks that take repetitive infrastructure work off engineers' hands.
+- **Applied AI infrastructure** — LLM inference sizing and GPU selection, grounded in the same cost and capacity discipline.
 
 ---
 
@@ -70,17 +51,6 @@ Riyadh, Saudi Arabia 🇸🇦
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🖥️ VMware & Virtualization
-
-![vSphere](https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![ESXi](https://img.shields.io/badge/ESXi-546E7A?style=for-the-badge)
-![vCenter](https://img.shields.io/badge/vCenter-455A64?style=for-the-badge)
-![VMware Cloud Director](https://img.shields.io/badge/VMware_Cloud_Director-37474F?style=for-the-badge&logo=vmware&logoColor=white)
-![NSX](https://img.shields.io/badge/VMware_NSX-263238?style=for-the-badge)
-![vSAN](https://img.shields.io/badge/vSAN-78909C?style=for-the-badge)
-![SRM](https://img.shields.io/badge/SRM-5D6D7E?style=for-the-badge)
-![DRS & HA](https://img.shields.io/badge/DRS_%26_HA-90A4AE?style=for-the-badge)
-
 ### 🛡️ Sovereign Cloud & Compliance
 
 ![CST Cloud Framework](https://img.shields.io/badge/CST_Cloud_Framework-1B4F72?style=for-the-badge)
@@ -88,7 +58,6 @@ Riyadh, Saudi Arabia 🇸🇦
 ![NDMO Data Residency](https://img.shields.io/badge/NDMO_Data_Residency-148F77?style=for-the-badge)
 ![Data Sovereignty](https://img.shields.io/badge/Data_Sovereignty-0E6655?style=for-the-badge)
 ![DR & Backup Design](https://img.shields.io/badge/DR_%26_Backup_Design-1A5276?style=for-the-badge)
-![Connectivity & Managed Services](https://img.shields.io/badge/Connectivity_%26_Managed_Services-2874A6?style=for-the-badge)
 
 ### ⚡ Automation & Scripting
 
@@ -97,7 +66,6 @@ Riyadh, Saudi Arabia 🇸🇦
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerCLI](https://img.shields.io/badge/PowerCLI-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2C3E50?style=for-the-badge)
 
 ### 📦 Containers & Platforms
 
@@ -123,16 +91,6 @@ Riyadh, Saudi Arabia 🇸🇦
 ![Resource Optimization](https://img.shields.io/badge/Resource_Optimization-1ABC9C?style=for-the-badge)
 ![TCO Comparison](https://img.shields.io/badge/TCO_Comparison-117864?style=for-the-badge)
 
-### 🤝 Pre-Sales & Solution Architecture
-
-![Technical Pre-Sales](https://img.shields.io/badge/Technical_Pre--Sales-1F618D?style=for-the-badge)
-![Solution Design](https://img.shields.io/badge/Solution_Design-2E86C1?style=for-the-badge)
-![BoQ Development](https://img.shields.io/badge/BoQ_Development-3498DB?style=for-the-badge)
-![Migration Strategy](https://img.shields.io/badge/Migration_Strategy-2874A6?style=for-the-badge)
-![Workload Assessment](https://img.shields.io/badge/Workload_Assessment-21618C?style=for-the-badge)
-![DR Readiness](https://img.shields.io/badge/DR_Readiness-1B4F72?style=for-the-badge)
-![Technical Proposals](https://img.shields.io/badge/Technical_Proposals-154360?style=for-the-badge)
-
 ---
 
 ## 📈 Currently
@@ -142,27 +100,6 @@ Riyadh, Saudi Arabia 🇸🇦
 - 🤖 Exploring LLM inference capacity tooling — GPU sizing grounded in real regional catalog data
 
 > ☁️ *Probably reviewing a cloud bill or sizing a GPU node right now.*
-
----
-
-## 🎓 Certifications
-
-![VCP-NV 2023](https://img.shields.io/badge/VMware_VCP--NV_Network_Virtualization_2023-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![OCI Foundations](https://img.shields.io/badge/Oracle_OCI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft AI Agents](https://img.shields.io/badge/Microsoft_Applied_Skills--AI_Agents_in_Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Oracle Agentic AI](https://img.shields.io/badge/Oracle_Agentic_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Agile Fundamentals](https://img.shields.io/badge/Agile_Fundamentals-0096FF?style=for-the-badge&logo=agile&logoColor=white)
-
-## 🏆 Honors & Awards
-
-- 🥇 **Champion of the Week** — Cloud Computing Bootcamp (Saudi Digital Academy)
-- 🎓 Graduated with **First Honor** degree
-
-## 📚 Education
-
-- **B.Sc.** Engineering of Computer Network Systems Support — TVTC (2021)
-- **Cloud Developer using Microsoft Azure** Nanodegree — Udacity (2022)
-- **Cloud Computing Bootcamp (GCP)** — Saudi Digital Academy (2021)
 
 ---
 
