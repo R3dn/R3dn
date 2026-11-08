@@ -9,7 +9,7 @@
 Riyadh, Saudi Arabia 🇸🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdan-alsadrah/)
-[![Website](https://img.shields.io/badge/ralsadrah.xyz-475569?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
+[![Website](https://img.shields.io/badge/rednalsidrah-475569?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://rednalsidrah/)
 [![GitHub](https://img.shields.io/badge/GitHub-R3dn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R3dn)
 
 </div>
@@ -109,7 +109,7 @@ Riyadh, Saudi Arabia 🇸🇦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rdan-alsadrah/)
 &nbsp;
-[![Website](https://img.shields.io/badge/ralsadrah.xyz-475569?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://ralsadrah.xyz/)
+[![Website](https://img.shields.io/badge/rednalsidrah-475569?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://rednalsidrah/)
 
 <em>Open to collaborations on sovereign cloud adoption, FinOps tooling, and AI infrastructure.</em>
 
